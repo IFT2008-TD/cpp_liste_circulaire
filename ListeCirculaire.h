@@ -172,4 +172,6 @@ bool ListeCirculaire<T>::invariant() const {
     return true ;
 }
 
+
+
 #endif //LISTECIRCULAIRE_H
